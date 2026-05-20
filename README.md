@@ -1,3 +1,3 @@
-<h1> Design de Projetos <\h1>
+<h1> Design de Projetos
 
-Criação e produção de interfaces no Figma
+Criação e produção de interfaces no Figma </h1>
